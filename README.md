@@ -2,8 +2,6 @@
 
 OpenSky iPaaS, gerçek zamanlı uçuş verilerini yapay zeka desteğiyle işleyen ve kullanıcıya canlı analiz, öngörü ve öneri sunan bir havacılık entegrasyon platformudur.
 
-🔗 Proje Linki: [OpenSky iPaaS GitHub Repository](https://github.com/samettalhatozlu/OpenSky_iPaaS_Platform)
-
 ## Özellikler
 
 - 🗺️ **Gerçek Zamanlı Uçuş Takibi**  
