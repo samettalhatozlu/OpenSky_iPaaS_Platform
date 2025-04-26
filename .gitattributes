@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
 * text=auto
+*.php text
+*.html text
+*.css text
+*.js text
+*.json text
+*.md text
+*.yml text
+*.xml text
+*.sql text
